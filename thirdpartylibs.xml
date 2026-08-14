@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <libraries>
   <library>
-    <location>jquery/fontawesome-iconpicker</location>
+    <location>lib/fontawesome-iconpicker</location>
     <name>FontAwesome Icon Picker</name>
     <license>MIT</license>
   </library>
